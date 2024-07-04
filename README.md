@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Send Email](https://github.com/m4n1nh0/send_email)
 
-- 💬 Ask me about **FASTAPI, Python and Java**
+- 💬 Ask me about **FASTAPI, PHP, CSharp, Python and Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
