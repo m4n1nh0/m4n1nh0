@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A74A6&height=120&section=header"/>
+
 <h1 align="center">Hi 👋, I'm Mariano Florencio Mendonça</h1>
 <h3 align="center">A Software Developer in Brazil</h3>
 
@@ -37,5 +39,5 @@
 </div>
 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A74A6&height=120&section=footer"/>
 <!--© Modified by PauloSergio-0-->
