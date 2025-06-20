@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m4n1nh0&theme=onedark&margin-w=15" alt="m4n1nh0" /></a> </p>
 
-- 🔭 I’m currently working on [SafeLabs](https://safelabs.com.br/)
+- 🔭 I’m currently working on [Estácio](https://safelabs.com.br)
 
-- 🌱 I’m currently learning **Elixir** , **Node**, **OpenSearch**  
+- 🌱 I’m currently learning **Spring Boot** , **Node**, **OpenSearch**, **RAG**, **LLM**  
 
-- 👯 I’m looking to collaborate on [Send Email](https://github.com/m4n1nh0/send_email)
+- 👯 I’m looking to collaborate on [Favoritando](https://github.com/m4n1nh0/send_email)
 
-- 💬 Ask me about **FASTAPI, PHP, CSharp, Python and Java**
+- 💬 Ask me about **FASTAPI, Flask, Spring Boot, PHP, CSharp, Python and Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
