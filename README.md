@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mariano Florencio Mendonça</h1>
 <h3 align="center">A Software Developer in Brazil</h3>
- 
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m4n1nh0&label=Profile%20views&color=0e75b6" alt="m4n1nh0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m4n1nh0&theme=onedark&margin-w=15" alt="m4n1nh0" /></a> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot** , **Node**, **OpenSearch**, **RAG**, **LLM**  
 
-- 👯 I’m looking to collaborate on [Favoritando](https://github.com/m4n1nh0/favoritando)
+- 👯 I’m looking to collaborate on [AssistantApp](https://github.com/m4n1nh0/assistant_app)
 
 - 💬 Ask me about **FASTAPI, Flask, Spring Boot, PHP, CSharp, Python and Java**
 
